@@ -1000,7 +1000,7 @@ CareerAI is being developed as a functional prototype demonstrating:
 Prateep P , Suriya Prakash S , Pokala Mukundakumar Subhasree , Perarivalan. R
 Sujithra.S , Rithika sri. G
 
-AI/ML Student
+AI/ML Students at
 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
 
 ---
