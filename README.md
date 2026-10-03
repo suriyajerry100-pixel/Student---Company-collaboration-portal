@@ -995,9 +995,10 @@ CareerAI is being developed as a functional prototype demonstrating:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
-**Prateep P**
+Prateep P , Suriya Prakash S , Pokala Mukundakumar Subhasree , Perarivalan. R
+Sujithra.S , Rithika sri. G
 
 AI/ML Student
 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
